@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<udm.DeploymentPackage version="1.0" application="WindowsService">
+  <application />
+  <orchestrator />
+  <deployables>
+    <cp.App name="/CopyExetoTarget" file="/CopyExetoTarget/TestWindowsService.exe">
+      <tags />
+      <scanPlaceholders>false</scanPlaceholders>
+      <checksum>a3c6a93d76370ebe873f40fa75cd7c2a55e57e00</checksum>
+    </cp.App>
+    <windows.ServiceSpec name="/TestWindowsService">
+      <tags />
+      <serviceName>TestWindowsService</serviceName>
+      <serviceDisplayName>TestWindowsServiceName</serviceDisplayName>
+      <serviceDescription>TestServiceName</serviceDescription>
+      <binaryPathName>D:/Apps/ABNAMRO/TestWindowsService/bin/TestWindowsService.exe</binaryPathName>
+      <dependsOn />
+      <startupType>Automatic</startupType>
+    </windows.ServiceSpec>
+  </deployables>
+  <applicationDependencies />
+  <dependencyResolution>LATEST</dependencyResolution>
+  <undeployDependencies>false</undeployDependencies>
+</udm.DeploymentPackage>

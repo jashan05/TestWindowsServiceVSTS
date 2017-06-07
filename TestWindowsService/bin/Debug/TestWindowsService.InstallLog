@@ -1,0 +1,52 @@
+﻿Installing assembly 'C:\Users\Public\VS\Projects\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Public\VS\Projects\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+   assemblypath = C:\Users\Public\VS\Projects\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+Installing service Test Windows Service...
+Service Test Windows Service has been successfully installed.
+Creating EventLog source Test Windows Service in log Application...
+Committing assembly 'C:\Users\Public\VS\Projects\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Public\VS\Projects\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+   assemblypath = C:\Users\Public\VS\Projects\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+Installing assembly 'C:\Users\Public\VS\Projects\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Public\VS\Projects\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+   assemblypath = C:\Users\Public\VS\Projects\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+Installing service Test Windows Service...
+Creating EventLog source Test Windows Service in log Application...
+Rolling back assembly 'C:\Users\Public\VS\Projects\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Public\VS\Projects\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+   assemblypath = C:\Users\Public\VS\Projects\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+Restoring event log to previous state for source Test Windows Service.
+Installing assembly 'C:\Users\Public\VS\Projects\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Public\VS\Projects\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+   assemblypath = C:\Users\Public\VS\Projects\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+Installing service Test Windows Service...
+Creating EventLog source Test Windows Service in log Application...
+Rolling back assembly 'C:\Users\Public\VS\Projects\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Public\VS\Projects\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+   assemblypath = C:\Users\Public\VS\Projects\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+Restoring event log to previous state for source Test Windows Service.
+Installing assembly 'C:\Users\Public\VS\Projects\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Public\VS\Projects\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+   assemblypath = C:\Users\Public\VS\Projects\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+Installing service Test Windows Service...
+Creating EventLog source Test Windows Service in log Application...
+Rolling back assembly 'C:\Users\Public\VS\Projects\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Public\VS\Projects\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+   assemblypath = C:\Users\Public\VS\Projects\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+Restoring event log to previous state for source Test Windows Service.

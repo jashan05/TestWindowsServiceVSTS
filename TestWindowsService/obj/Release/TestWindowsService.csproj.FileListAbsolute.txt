@@ -1,0 +1,1 @@
+C:\Users\Public\VS\Projects\TestWindowsService\TestWindowsService\bin\Release\TestWindowsService.exe.config
